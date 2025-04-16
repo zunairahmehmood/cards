@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgba(179, 139, 38, 0.356);
+}
+
+.navbar {
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.logo {
+    height: 60px;
+    width: 50px;
+    padding-left: 70px;
+    padding-top: 8px;
+}
+
+.list {
+    padding-left: 670px;
+    font-size:  140%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin-top: 25px;
+    color: whitesmoke;
+}
+
+li {
+    padding-left: 30px;
+}
+
+.main {
+    text-align: center;
+}
+
+.main >.box {
+    display: inline-block;
+    margin-top: 95px;
+}
+
+.box1 {
+    height: 350px;
+    width: 250px;
+    background-color: darkolivegreen;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+
+p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    font-size: 12px;
+    background-color: black;
+    color: ghostwhite;
+    border: none;
+    margin: 8px;
+}
+
+.box2 {
+    height: 350px;
+    width: 250px;
+    background-color: darkolivegreen;
+    text-align: center;
+    margin-left: 100px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+
+.h12 {
+    padding-top: 11px;
+}
+
+.box3 {
+    height: 350px;
+    width: 250px;
+    background-color: darkolivegreen;
+    text-align: center;
+    margin-left: 100px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
